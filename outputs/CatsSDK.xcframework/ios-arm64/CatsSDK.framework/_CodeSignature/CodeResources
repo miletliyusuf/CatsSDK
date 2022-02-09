@@ -49,6 +49,10 @@
 	<dict>
 		<key>Headers/CatsSDK-Swift.h</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			6V0x4dD/Eks8Ra4FvgYIEA5+ZiI=
+			</data>
 			<key>hash2</key>
 			<data>
 			pZGUnF+4sSGoo+YhtSSdIYJ/frQqkVx2HSO6VrriEiI=
@@ -56,6 +60,10 @@
 		</dict>
 		<key>Headers/CatsSDK.h</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			XK+V4Q+8DzPnV0PP4x3NatmZIuo=
+			</data>
 			<key>hash2</key>
 			<data>
 			mS/DyFgJ14oM6x/+mrtdi1cFYKfrsGp/WJAr6ozA8rs=
@@ -63,6 +71,10 @@
 		</dict>
 		<key>Modules/CatsSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			yeovkJkd1sHpILV4ja4bp4w1+IU=
+			</data>
 			<key>hash2</key>
 			<data>
 			6WaSFmw+ppC2pCXDHnPgqSkrb5ZXPnrnLo7qsUQnuV8=
@@ -70,6 +82,10 @@
 		</dict>
 		<key>Modules/CatsSDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			KqK2YNWH/PifRgDyoezxdWO1WiM=
+			</data>
 			<key>hash2</key>
 			<data>
 			CsB/Leo/rVX64T/ksTLGWmaY/RLbfq7NrYzpg3S19qs=
@@ -77,6 +93,10 @@
 		</dict>
 		<key>Modules/CatsSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			e7WjvOxUvNXIGRgRE1Ip0vCMuwQ=
+			</data>
 			<key>hash2</key>
 			<data>
 			o9Mdr64jfmTOurFfFAn3EKYmcfF3/+2+ZeYwYaqv68Y=
@@ -84,6 +104,10 @@
 		</dict>
 		<key>Modules/CatsSDK.swiftmodule/arm64.swiftdoc</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			yeovkJkd1sHpILV4ja4bp4w1+IU=
+			</data>
 			<key>hash2</key>
 			<data>
 			6WaSFmw+ppC2pCXDHnPgqSkrb5ZXPnrnLo7qsUQnuV8=
@@ -91,6 +115,10 @@
 		</dict>
 		<key>Modules/CatsSDK.swiftmodule/arm64.swiftinterface</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			KqK2YNWH/PifRgDyoezxdWO1WiM=
+			</data>
 			<key>hash2</key>
 			<data>
 			CsB/Leo/rVX64T/ksTLGWmaY/RLbfq7NrYzpg3S19qs=
@@ -98,6 +126,10 @@
 		</dict>
 		<key>Modules/CatsSDK.swiftmodule/arm64.swiftmodule</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			e7WjvOxUvNXIGRgRE1Ip0vCMuwQ=
+			</data>
 			<key>hash2</key>
 			<data>
 			o9Mdr64jfmTOurFfFAn3EKYmcfF3/+2+ZeYwYaqv68Y=
@@ -105,6 +137,10 @@
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			TT57JOkuYw+cOSGhy+NYrvP/WU4=
+			</data>
 			<key>hash2</key>
 			<data>
 			8ik/g6p5ZBW5kiHRSdQsdS1iQlBSetmy2B351t5kx+w=
